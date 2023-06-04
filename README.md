@@ -24,4 +24,4 @@ The solutions provided cannot be guaranteed to be 100% correct. They have been r
 2. Hierarchical Risk Parity: Portfolio Optimization through Clustering, Quasi-Diagonalization, and Recursive Bisection
 3. Multi-Factor Models in Walk-Forward Process: Comparative Analysis of Risk Parity, Hierarchical Risk Parity, and Global Minimum Variance Portfolios
 
-Chronologically, it was Homework 1, Homework 2, Midterm Exam, Homework 3, therefore the difficulties increase in this order.
+In a chronological order of occurrence, Homework 1 came first, followed by Homework 2, then the Midterm Exam, and finally Homework 3. This sequence also corresponds to the ascending order of complexity and difficulty.
