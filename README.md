@@ -1,7 +1,7 @@
 # Data-Driven Portfolio Optimization
 *The Homework and Exam of HKUST ELEC3180 - Data-Driven Portfolio Optimization*
 
-The solutions provided cannot be guaranteed to be entirely accurate. They have been revised from the submissions and base on the TAs' solutions as reference. I have chosen not to post the solutions as doing so would defeat the purpose of the exercise.
+The solutions provided cannot be guaranteed to be 100% correct. They have been revised from the submissions and base on the TAs' solutions as reference. I have chosen not to post the solutions as doing so would defeat the purpose of the exercise.
 
 ## Outline
 [Homework 1](./Homework1.ipynb)
