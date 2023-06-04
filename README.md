@@ -23,3 +23,5 @@ The solutions provided cannot be guaranteed to be 100% correct. They have been r
 1. Risk Parity Portfolio: Asset Allocation and Convex Optimization Analysis
 2. Hierarchical Risk Parity: Portfolio Optimization through Clustering, Quasi-Diagonalization, and Recursive Bisection
 3. Multi-Factor Models in Walk-Forward Process: Comparative Analysis of Risk Parity, Hierarchical Risk Parity, and Global Minimum Variance Portfolios
+
+Chronologically, it was Homework 1, Homework 2, Midterm Exam, Homework 3, therefore the difficulties increase in this order.
